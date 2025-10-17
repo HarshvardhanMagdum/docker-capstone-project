@@ -13,7 +13,7 @@ Description:
 This project demonstrates a containerized 3-tier web application using Docker.
 It includes:
 1. Frontend - Nginx web server serving static HTML.
-2. Backend - Python Flask application providing REST APIs.
+2. Backend - Python Flask application 
 3. Database - MySQL database for persistent data storage.
 
 Each service runs in its own container and communicates through a Docker network.
