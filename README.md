@@ -1,8 +1,13 @@
 Docker Capstone Project
+
 Name: Harshvardhan Magdum
+
 Trainer: Dr. Ankur Shrama
+
 Course: Java Full Stack Development
+
 Project Title: Multi-container Web Application using Docker
+
 
 Description:
 This project demonstrates a containerized 3-tier web application using Docker.
